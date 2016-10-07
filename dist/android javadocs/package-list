@@ -1,0 +1,14 @@
+com.javacodegeeks.android
+gamengine.game
+gamengine.modifiers
+gamengine.modifiers.motions
+gamengine.modifiers.weapons
+gamengine.utils
+tankgame
+tankgame.android
+tankgame.game
+tankgame.modifiers.motions
+tankgame.network
+tankgame.network.request
+tankgame.ui
+tankgame.weapons

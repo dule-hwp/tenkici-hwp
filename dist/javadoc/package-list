@@ -1,0 +1,13 @@
+gamengine.game
+gamengine.modifiers
+gamengine.modifiers.motions
+gamengine.modifiers.weapons
+gamengine.utils
+lazarusgame
+lazarusgame.game
+lazarusgame.modifiers.motions
+tankgame
+tankgame.game
+tankgame.modifiers.motions
+tankgame.ui
+tankgame.weapons
